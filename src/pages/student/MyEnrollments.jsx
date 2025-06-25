@@ -25,7 +25,7 @@ const MyEnrollments = () => {
   if (!Array.isArray(enrolledCourses)) {
     return <p className="text-center pt-10 text-gray-500">Loading your enrollments...</p>;
   }
-console.log("Enrolled Courses:", enrolledCourses);
+console.log("Enrolled Courses:", enrolledCourses); 
 
   return (
     <>
