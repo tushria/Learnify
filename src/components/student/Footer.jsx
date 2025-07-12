@@ -39,7 +39,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-        <p className='py-4 text-center text-xs md:text-sm text-white/60'>Copyright 2025 © GreatStack.All Right Reserved.</p>
+        <p className='py-4 text-center text-xs md:text-sm text-white/60'>Copyright 2025 © Learnify.All Right Reserved.</p>
    </footer>
   )
 }
