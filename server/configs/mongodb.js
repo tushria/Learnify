@@ -9,4 +9,4 @@ const connetDB =async()=>{
     await mongoose.connect(`${process.env.MONGODB_URI}/lms`)
 }
 
-export default connectDB
+export default connetDB
